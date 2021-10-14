@@ -7,5 +7,8 @@ Ejercicio 3 de la guia GIT de EGG
 
 -Lucia Parejas
 
+-Nico Soliz
+
 -Marcos Ampuero
+
 
