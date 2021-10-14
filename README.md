@@ -9,3 +9,6 @@ Ejercicio 3 de la guia GIT de EGG
 
 -Nico Soliz
 
+-Marcos Ampuero
+
+
